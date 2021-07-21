@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jpoirier1/jpoirier1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![James's github stats](https://github-readme-stats.vercel.app/api?username=jpoirier1&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpoirier1&layout=compact)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on developing autonomous vehicle systems using Convolutional Neural Networks to leverage Electro-Optical sensor grids.
+- 🌱 I’m currently learning more about AIML every day, and love exploring the ever-changing world of Neural Networks.
+
+
+<!-- **jpoirier1/jpoirier1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Templates:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
