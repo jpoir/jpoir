@@ -1,10 +1,13 @@
-# Hi there 👋
-=
+# Hi there! 👋
+
 
 ![James's github stats](https://github-readme-stats.vercel.app/api?username=jpoirier1&count_private=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpoirier1&layout=compact)
 
+---
 - 🔭 I’m currently working on developing autonomous vehicle systems using Convolutional Neural Networks to leverage Electro-Optical sensor grids.
+- 🔭 I’m also working on creating an open-source and free wedding website for my own wedding and hopefully others in the future.
+---
 - 🌱 I’m currently learning more about AIML every day, and love exploring the ever-changing world of Neural Networks.
 
 
