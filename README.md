@@ -10,7 +10,7 @@
 ---
 - 🌱 I’m currently learning more about AIML every day, and love exploring the ever-changing world of Neural Networks.
 
-
+Note: This is my personal Github account, and will only include personal projects or contributions that I do on my free time.
 <!-- **jpoirier1/jpoirier1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Templates:
