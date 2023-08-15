@@ -1,8 +1,8 @@
 # Hi there! 👋
 
 
-![James's Github Stats](https://github-readme-stats.vercel.app/api?username=jpoirier1&count_private=true&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpoirier1&layout=compact)
+![James's Github Stats](https://github-readme-stats.vercel.app/api?username=jpoir&count_private=true&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpoir&layout=compact)
 
 ---
 - 🔭 I’m currently working on developing autonomous vehicle systems using Convolutional Neural Networks to leverage Electro-Optical sensor grids.
