@@ -2,10 +2,10 @@
 
 
 ![James's Github Stats](https://github-readme-stats.vercel.app/api?username=jpoir&count_private=true&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpoir&layout=compact)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpoir&layout=compact)-->
 
 ---
-- 📫 Reach me at: [linkedin.com/](https://www.linkedin.com/in/jpoir/)
+- 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/jpoir/)
 
 - 🔭 I’m currently working on developing autonomous vehicle systems using various Neural Networks trained on a wide array of sensor grids.
 - 🔭 My more recent work is focused on implementing GPT and RAG models across the defense sector.
