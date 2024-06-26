@@ -8,7 +8,7 @@
 - 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/jpoir/)
 
 - 🔭 I’m currently working on developing autonomous vehicle systems using various Neural Networks trained on a wide array of sensor grids.
-- 🔭 My more recent work is focused on implementing GPT and RAG models across the defense sector.
+- 🔭 My more recent work is focused on implementing GPT and RAG models for various internal tools.
 - 🔭 I’m also working on creating an open-source and free wedding website for my own wedding and hopefully others in the future - to be cleaned up and released still :).
 - 🌱 I’m currently learning more about AI/ML every day, and love exploring the ever-changing world of applied AI.
 ---
