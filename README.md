@@ -2,9 +2,15 @@
 
 **AI Security Engineer | AI/ML-Enabled Systems | Cyber Defense**
 
-[![Website](https://img.shields.io/badge/Website-jpoir.github.io-0A0A0A?style=flat&logo=githubpages&logoColor=white)](https://jpoir.github.io)
+[![Website](https://img.shields.io/badge/Website-jpoir.github.io-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://jpoir.github.io)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jpoir-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jpoir/)
 ![Profile Views](https://komarev.com/ghpvc/?username=jpoir&color=blueviolet&style=flat)
+
+---
+
+## Certifications
+
 [![Stanford ML Specialization](https://img.shields.io/badge/ML_Specialization-Stanford-8C1515?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/FJBQGHR3QUMD)
 [![Black Hat Hands-On Hacking](https://img.shields.io/badge/Hands--On_Hacking-Black_Hat-000000?style=flat&logoColor=white)](https://certificates.blackhat.com/d8a9e880-96dc-4c6c-98a8-247e211352be?key=8c7d25e2a6f4fa97001e546e6b877fb82c7945a49c9ea7ee1ad306035802d835#acc.9dw1TDya)
 [![HF AI Agents Fundamentals](https://img.shields.io/badge/AI_Agents_Fundamentals-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://cas-bridge.xethub.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/9087a6827c6ba1593d8a3b5d9f2a0acee916573dc8f5531d6dc45c671064cce7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20260324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260324T224211Z&X-Amz-Expires=3600&X-Amz-Signature=0ab62047b793f819d1b0e5903a8bfd7238b4978ce4b528562b7ca487fce1b15a&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-04-11.png%3B+filename%3D%222025-04-11.png%22%3B&response-content-type=image%2Fpng&x-amz-checksum-mode=ENABLED&x-id=GetObject&Expires=1774395731&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3NDM5NTczMX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82N2E0NzAzNzc0OWVhMmM0YjlmYWZkNGIvOTA4N2E2ODI3YzZiYTE1OTNkOGEzYjVkOWYyYTBhY2VlOTE2NTczZGM4ZjU1MzFkNmRjNDVjNjcxMDY0Y2NlNyoifV19&Signature=q71Y%7EN1GUJpyHdwNhwP0mn6uQmKE%7E%7Ea2l43VPNVXKXZ1S0mKtqYcRSWfRd8erNFrg7Nwoq7rUngX85FS08z9HmEw6C6PB%7EhVEnrMflKsIyL7wDA9WB969lQwLkB71N4LKL2NQkV-63g%7EpoMLtAc-ZYmlBNnxy2POsaCHHxAENsIsB4vQ9WCSRc0L-Gp5DLdcw4fd1tAy57w%7E2%7E7BcEMl0dfznMk5ZNfezHim9cd4vIyv%7EZJoaFMImkhdcYK8ESQg16gUSMUNQY9kZ27KAwt0y8E5FSR6gFghtbODHfaMpJQwRPnjCXids-YkthHoxBCgDW-XR0HZK7UFJEyLbmMm7A__&Key-Pair-Id=K2L8F4GPSG1IFC)
