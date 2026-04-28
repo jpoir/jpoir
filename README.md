@@ -64,21 +64,6 @@ I've built or secured AI-driven systems in some of the highest-stakes domains in
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
----
-
-## Pinned Project
-
-### F1 Race Replay
-
-> Interactive Formula 1 telemetry visualization and race replay engine
-
-A Python application that renders live driver positions on track, replays full race sessions with interactive playback controls, and surfaces per-driver telemetry — speed, gear, DRS, tire compound — in real time. Built with **FastF1**, **Arcade**, and **NumPy**.
-
-**Features:** safety car simulation · qualifying support · leaderboard · speed controls (0.5x–4x) · customizable telemetry windows
-
-[![View Repo](https://img.shields.io/badge/GitHub-IAmTomShaw%2Ff1--race--replay-181717?style=flat&logo=github)](https://github.com/IAmTomShaw/f1-race-replay)
-
----
 
 ![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpoir&count_private=true&hide=issues&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpoir&layout=compact&theme=dark&langs_count=6)
